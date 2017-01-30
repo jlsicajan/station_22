@@ -12,3 +12,5 @@
 */
 
 Route::get('/', 'Frontend\HomeController@index');
+Route::get('/videos', 'Frontend\VideoController@index');
+Route::get('/personal', 'Frontend\PersonalController@index');

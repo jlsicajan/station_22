@@ -1,5 +1,15 @@
 @extends('frontend.principal.app')
 
+@section('after_styles_end')
+    <style>
+        #start {
+            color: #3B6B52 !important;
+            background-color: #ffffff !important;
+            border-right: solid #3B6B52;
+            border-left: solid #3B6B52;
+        }
+    </style>
+@endsection
 @section('content')
     <div class="jumbotron text-center">
         <h1>Estacion 22</h1>
@@ -34,12 +44,12 @@
 
     <div class="container-fluid bg-grey">
         <div class="row text-center">
-            <div class="col-sm-4">
-                <span class="glyphicon glyphicon-globe logo slideanim"></span>
+            <div class="col-sm-4"><br><br><br><br>
+                <span class="glyphicon glyphicon-fire logo slideanim"></span>
             </div>
             <div class="col-sm-8">
-                <h2>Our Values</h2><br>
-                <h4><strong>MISSION:</strong> Our mission lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                <h2>Nuestros valores</h2><br>
+                <h4><strong>MISION:</strong> Our mission lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
                     exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h4><br>
                 <p><strong>VISION:</strong> Our vision Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -54,8 +64,8 @@
 
     <!-- Container (Services Section) -->
     <div id="services" class="container-fluid text-center">
-        <h2>SERVICES</h2>
-        <h4>What we offer</h4>
+        <h2>NUESTROS SERVICIOS</h2>
+        <h4>Lo que ofrecemos</h4>
         <br>
         <div class="row slideanim">
             <div class="col-sm-4">
@@ -96,28 +106,28 @@
 
     <!-- Container (Portfolio Section) -->
     <div id="portfolio" class="container-fluid text-center bg-grey">
-        <h2>Portfolio</h2><br>
-        <h4>What we have created</h4>
+        <h2>NUESTROS LOGROS</h2><br>
+        <h4>Lo que hemos creado</h4>
         <div class="row text-center slideanim">
             <div class="col-sm-4">
                 <div class="thumbnail">
-                    <img src="/images/skills.jpg" alt="Paris" width="100" height="100">
-                    <p><strong>Paris</strong></p>
-                    <p>Yes, we built Paris</p>
+                    <img src="/images/fire_two.jpg" alt="Paris" width="100" height="100">
+                    <p><strong>Descripcion</strong></p>
+                    <p>Descripcion</p>
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="thumbnail">
                     <img src="/images/index.jpeg" alt="New York" width="400" height="300">
-                    <p><strong>New York</strong></p>
-                    <p>We built New York</p>
+                    <p><strong>Descripcion</strong></p>
+                    <p>Descripcion</p>
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="thumbnail">
-                    <img src="/images/skills_2.jpg" alt="San Francisco" width="400" height="300">
-                    <p><strong>San Francisco</strong></p>
-                    <p>Yes, San Fran is ours</p>
+                    <img src="/images/build_fire.jpg" alt="San Francisco" width="400" height="300">
+                    <p><strong>Descripcion</strong></p>
+                    <p>Descripcion</p>
                 </div>
             </div>
         </div>
@@ -159,97 +169,30 @@
         </div>
     </div>
 
-    <!-- Container (Pricing Section) -->
-    <div id="pricing" class="container-fluid">
-        <div class="text-center">
-            <h2>Pricing</h2>
-            <h4>Choose a payment plan that works for you</h4>
-        </div>
-        <div class="row slideanim">
-            <div class="col-sm-4 col-xs-12">
-                <div class="panel panel-default text-center">
-                    <div class="panel-heading">
-                        <h1>Basic</h1>
-                    </div>
-                    <div class="panel-body">
-                        <p><strong>20</strong> Lorem</p>
-                        <p><strong>15</strong> Ipsum</p>
-                        <p><strong>5</strong> Dolor</p>
-                        <p><strong>2</strong> Sit</p>
-                        <p><strong>Endless</strong> Amet</p>
-                    </div>
-                    <div class="panel-footer">
-                        <h3>$19</h3>
-                        <h4>per month</h4>
-                        <button class="btn btn-lg">Sign Up</button>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-4 col-xs-12">
-                <div class="panel panel-default text-center">
-                    <div class="panel-heading">
-                        <h1>Pro</h1>
-                    </div>
-                    <div class="panel-body">
-                        <p><strong>50</strong> Lorem</p>
-                        <p><strong>25</strong> Ipsum</p>
-                        <p><strong>10</strong> Dolor</p>
-                        <p><strong>5</strong> Sit</p>
-                        <p><strong>Endless</strong> Amet</p>
-                    </div>
-                    <div class="panel-footer">
-                        <h3>$29</h3>
-                        <h4>per month</h4>
-                        <button class="btn btn-lg">Sign Up</button>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-4 col-xs-12">
-                <div class="panel panel-default text-center">
-                    <div class="panel-heading">
-                        <h1>Premium</h1>
-                    </div>
-                    <div class="panel-body">
-                        <p><strong>100</strong> Lorem</p>
-                        <p><strong>50</strong> Ipsum</p>
-                        <p><strong>25</strong> Dolor</p>
-                        <p><strong>10</strong> Sit</p>
-                        <p><strong>Endless</strong> Amet</p>
-                    </div>
-                    <div class="panel-footer">
-                        <h3>$49</h3>
-                        <h4>per month</h4>
-                        <button class="btn btn-lg">Sign Up</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <!-- Container (Contact Section) -->
     <div id="contact" class="container-fluid bg-grey">
-        <h2 class="text-center">CONTACT</h2>
+        <h2 class="text-center">CONTACTANOS</h2>
         <div class="row">
             <div class="col-sm-5">
-                <p>Contact us and we'll get back to you within 24 hours.</p>
-                <p><span class="glyphicon glyphicon-map-marker"></span> Chicago, US</p>
+                <p>Contactanos y te responderemos lo mas pronto posible.</p>
+                <p><span class="glyphicon glyphicon-map-marker"></span>Patzun Chimaltenango</p>
                 <p><span class="glyphicon glyphicon-phone"></span> +00 1515151515</p>
-                <p><span class="glyphicon glyphicon-envelope"></span> myemail@something.com</p>
+                <p><span class="glyphicon glyphicon-envelope"></span> myemail@email.com</p>
             </div>
             <div class="col-sm-7 slideanim">
                 <div class="row">
                     <div class="col-sm-6 form-group">
-                        <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
+                        <input class="form-control" id="name" name="name" placeholder="Nombre" type="text" required>
                     </div>
                     <div class="col-sm-6 form-group">
                         <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
                     </div>
                 </div>
-                <textarea class="form-control" id="comments" name="comments" placeholder="Comment"
+                <textarea class="form-control" id="comments" name="comments" placeholder="Comentario"
                           rows="5"></textarea><br>
                 <div class="row">
                     <div class="col-sm-12 form-group">
-                        <button class="btn btn-default pull-right" type="submit">Send</button>
+                        <button class="btn btn-default pull-right" type="submit">Enviar</button>
                     </div>
                 </div>
             </div>

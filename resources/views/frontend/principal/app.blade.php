@@ -11,6 +11,7 @@
     <script type="text/javascript" src="{{ asset('js/bootstrap/bootstrap.min.js') }}"></script>
     <link href="{{ asset('css/sicajan/sicajan.css') }}" media="all" rel="stylesheet" type="text/css"/>
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
+    @yield('after_styles_end')
 </head>
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
 @include('frontend.principal.nav')
