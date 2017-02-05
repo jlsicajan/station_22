@@ -133,7 +133,7 @@
         </div>
         <br>
 
-        <h2>What our customers say</h2>
+        <h2>TEXTO DE EJEMPLO</h2>
         <div id="myCarousel" class="carousel slide text-center" data-ride="carousel">
             <!-- Indicators -->
             <ol class="carousel-indicators">
@@ -145,14 +145,14 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                    <h4>"This company is the best. I am so happy with the result!"<br><span style="font-style:normal;">Michael Roe, Vice President, Comment Box</span>
+                    <h4>"Texto de ejemplo"<br><span style="font-style:normal;">Edvin Leonel Upun Tzirin</span>
                     </h4>
                 </div>
                 <div class="item">
-                    <h4>"One word... WOW!!"<br><span style="font-style:normal;">John Doe, Salesman, Rep Inc</span></h4>
+                    <h4>"Texto de ejemplo Texto de ejemplo Texto de ejemplo"<br><span style="font-style:normal;">Fabian Sicajan Coy</span></h4>
                 </div>
                 <div class="item">
-                    <h4>"Could I... BE any more happy with this company?"<br><span style="font-style:normal;">Chandler Bing, Actor, FriendsAlot</span>
+                    <h4>"Texto de ejemplo Texto de ejemplo Texto de ejemplo Texto de ejemplo"<br><span style="font-style:normal;">Jose Luis Sicajan Coy</span>
                     </h4>
                 </div>
             </div>
