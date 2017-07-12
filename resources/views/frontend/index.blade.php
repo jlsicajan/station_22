@@ -201,6 +201,7 @@
 
     <div id="googleMap" style="height:400px;width:100%;"></div>
     <!-- Add Google Maps -->
-    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyByohAb-X6ZC-ttlA9xx9fO5IwvvnFHIGY&callback=initMap"
+    async defer></script>
     <script type="text/javascript" src="{{ asset('js/sicajan/google.js') }}"></script>
 @endsection

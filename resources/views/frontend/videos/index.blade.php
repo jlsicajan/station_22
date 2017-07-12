@@ -32,7 +32,7 @@
                     <video class="embed-responsive-item video-js vjs-default-skin vjs-big-play-centered"
                            controls data-setup='{ "techOrder": ["youtube"] }' preload="auto"
                            poster="/images/skills_2.jpg">
-                        <source src="https://www.youtube.com/embed/hTMrlHHVx8A" type='video/youtube'>
+                        <source src="https://www.youtube.com/watch?v=y1iKMoELNxY" type='video/youtube'>
                     </video>
                 </div>
                 <p><strong>Descripcion</strong></p>
@@ -43,7 +43,7 @@
                     <video class="embed-responsive-item video-js vjs-default-skin vjs-big-play-centered"
                            controls data-setup='{ "techOrder": ["youtube"] }' preload="auto"
                            poster="/images/logo.jpg">
-                        <source src="https://www.youtube.com/embed/hTMrlHHVx8A" type='video/youtube'>
+                        <source src="https://www.youtube.com/watch?v=y1iKMoELNxY" type='video/youtube'>
                     </video>
                 </div>
                 <p><strong>Descripcion</strong></p>
@@ -54,7 +54,7 @@
                     <video class="embed-responsive-item video-js vjs-default-skin vjs-big-play-centered"
                            controls data-setup='{ "techOrder": ["youtube"] }' preload="auto"
                            poster="/images/index_1.jpg">
-                        <source src="https://www.youtube.com/embed/hTMrlHHVx8A" type='video/youtube'>
+                        <source src="https://www.youtube.com/watch?v=y1iKMoELNxY" type='video/youtube'>
                     </video>
                 </div>
                 <p><strong>Descripcion</strong></p>
@@ -67,7 +67,7 @@
                     <video class="embed-responsive-item video-js vjs-default-skin vjs-big-play-centered"
                            controls data-setup='{ "techOrder": ["youtube"] }' preload="auto"
                            poster="/images/skills_2.jpg">
-                        <source src="https://www.youtube.com/embed/hTMrlHHVx8A" type='video/youtube'>
+                        <source src="https://www.youtube.com/watch?v=y1iKMoELNxY" type='video/youtube'>
                     </video>
                 </div>
                 <p><strong>Descripcion</strong></p>
@@ -78,7 +78,7 @@
                     <video class="embed-responsive-item video-js vjs-default-skin vjs-big-play-centered"
                            controls data-setup='{ "techOrder": ["youtube"] }' preload="auto"
                            poster="/images/logo.jpg">
-                        <source src="https://www.youtube.com/embed/hTMrlHHVx8A" type='video/youtube'>
+                        <source src="https://www.youtube.com/watch?v=y1iKMoELNxY" type='video/youtube'>
                     </video>
                 </div>
                 <p><strong>Descripcion</strong></p>
@@ -89,7 +89,7 @@
                     <video class="embed-responsive-item video-js vjs-default-skin vjs-big-play-centered"
                            controls data-setup='{ "techOrder": ["youtube"] }' preload="auto"
                            poster="/images/index_1.jpg">
-                        <source src="https://www.youtube.com/embed/hTMrlHHVx8A" type='video/youtube'>
+                        <source src="https://www.youtube.com/watch?v=y1iKMoELNxY" type='video/youtube'>
                     </video>
                 </div>
                 <p><strong>Descripcion</strong></p>
@@ -102,7 +102,7 @@
                     <video class="embed-responsive-item video-js vjs-default-skin vjs-big-play-centered"
                            controls data-setup='{ "techOrder": ["youtube"] }' preload="auto"
                            poster="/images/skills_2.jpg">
-                        <source src="https://www.youtube.com/embed/hTMrlHHVx8A" type='video/youtube'>
+                        <source src="https://www.youtube.com/watch?v=y1iKMoELNxY" type='video/youtube'>
                     </video>
                 </div>
                 <p><strong>Descripcion</strong></p>
@@ -113,7 +113,7 @@
                     <video class="embed-responsive-item video-js vjs-default-skin vjs-big-play-centered"
                            controls data-setup='{ "techOrder": ["youtube"] }' preload="auto"
                            poster="/images/logo.jpg">
-                        <source src="https://www.youtube.com/embed/hTMrlHHVx8A" type='video/youtube'>
+                        <source src="https://www.youtube.com/watch?v=y1iKMoELNxY" type='video/youtube'>
                     </video>
                 </div>
                 <p><strong>Descripcion</strong></p>
@@ -124,7 +124,7 @@
                     <video class="embed-responsive-item video-js vjs-default-skin vjs-big-play-centered"
                            controls data-setup='{ "techOrder": ["youtube"] }' preload="auto"
                            poster="/images/index_1.jpg">
-                        <source src="https://www.youtube.com/embed/hTMrlHHVx8A" type='video/youtube'>
+                        <source src="https://www.youtube.com/watch?v=y1iKMoELNxY" type='video/youtube'>
                     </video>
                 </div>
                 <p><strong>Descripcion</strong></p>
